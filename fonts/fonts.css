@@ -22,7 +22,7 @@
   font-style: normal;
   font-weight 400;
   src
-    url('')
+    url(''../fonts/RobotoMono-Italic-VariableFont_wght.ttf')
 
 }
 
@@ -31,6 +31,7 @@
   font-style: italic;
   font-weight 400;
   src
-    url('')
+    url('../RobotoMono-VariableFont_wght.ttf')
+
 
 }
