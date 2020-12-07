@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="94.998642mm"
+   height="94.998627mm"
+   viewBox="0 0 94.998642 94.998627"
+   version="1.1"
+   id="svg3098"
+   inkscape:version="1.0.1 (0767f8302a, 2020-10-17)"
+   sodipodi:docname="HEAVY.svg">
+  <defs
+     id="defs3092" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.1325108"
+     inkscape:cx="197.11675"
+     inkscape:cy="258.34079"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1515"
+     inkscape:window-height="968"
+     inkscape:window-x="38"
+     inkscape:window-y="65"
+     inkscape:window-maximized="0"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata3095">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g2986"
+       transform="translate(-111.3654,-43.407313)">
+      <path
+         id="rect70"
+         style="fill:#2b0000;stroke-width:0.2;stroke-linecap:round"
+         d="m 111.3654,43.407313 h 94.99864 V 138.40594 H 111.3654 Z" />
+      <g
+         aria-label="HEAVY"
+         transform="matrix(1.3784851,-0.79586872,0.79586872,1.3784851,-94.711451,86.09534)"
+         id="text72"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;line-height:1.25;font-family:'IBM Plex Mono';-inkscape-font-specification:'IBM Plex Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect74);fill:#dddda1;fill-opacity:1">
+        <path
+           d="m 122.79502,80.953577 h -3.83822 v 4.473219 h -1.18533 v -9.849548 h 1.18533 v 4.346219 h 3.83822 v -4.346219 h 1.18533 v 9.849548 h -1.18533 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;font-family:'IBM Plex Mono';-inkscape-font-specification:'IBM Plex Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#dddda1;fill-opacity:1"
+           id="path901" />
+        <path
+           d="m 126.37373,85.426796 v -9.849548 h 6.06777 v 1.03011 h -4.88244 v 3.316109 h 4.71311 v 1.03011 h -4.71311 v 3.443108 h 4.88244 v 1.030111 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;font-family:'IBM Plex Mono';-inkscape-font-specification:'IBM Plex Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#dddda1;fill-opacity:1"
+           id="path903" />
+        <path
+           d="m 140.35231,85.426796 -0.83255,-2.808109 h -3.45722 l -0.83256,2.808109 h -1.22766 l 3.01977,-9.849548 h 1.56634 l 3.01977,9.849548 z m -2.49766,-8.59366 h -0.127 l -1.38289,4.75544 h 2.89278 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;font-family:'IBM Plex Mono';-inkscape-font-specification:'IBM Plex Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#dddda1;fill-opacity:1"
+           id="path905" />
+        <path
+           d="m 145.45502,85.426796 -2.921,-9.849548 h 1.25589 l 1.397,4.924774 1.05833,3.72533 h 0.0706 l 1.05833,-3.72533 1.397,-4.924774 h 1.21355 l -2.92099,9.849548 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;font-family:'IBM Plex Mono';-inkscape-font-specification:'IBM Plex Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#dddda1;fill-opacity:1"
+           id="path907" />
+        <path
+           d="m 154.12784,85.426796 v -3.866442 l -3.40078,-5.983106 h 1.35467 l 1.41111,2.56822 1.19944,2.243665 h 0.0564 l 1.22767,-2.243665 1.41111,-2.56822 h 1.32644 l -3.40077,5.983106 v 3.866442 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;font-family:'IBM Plex Mono';-inkscape-font-specification:'IBM Plex Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#dddda1;fill-opacity:1"
+           id="path909" />
+      </g>
+    </g>
+  </g>
+</svg>
