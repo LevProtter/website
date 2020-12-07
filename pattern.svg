@@ -19,6 +19,14 @@
   <defs
      id="defs2">
     <linearGradient
+       id="linearGradient3054"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop3052" />
+    </linearGradient>
+    <linearGradient
        id="linearGradient1997"
        osb:paint="solid">
       <stop
@@ -108,6 +116,19 @@
          y="33.734264"
          transform="rotate(-45)" />
     </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="44.15428"
+       height="44.15428"
+       patternTransform="translate(21.488344,22.25893)"
+       id="pattern3045">
+      <circle
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.755906;stroke-linecap:round"
+         id="path3043"
+         cx="22.077141"
+         cy="22.077141"
+         r="22.077141" />
+    </pattern>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -116,9 +137,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.2698884"
+     inkscape:zoom="1.4324942"
      inkscape:cx="300.74618"
-     inkscape:cy="270.5783"
+     inkscape:cy="183.67406"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -131,7 +152,9 @@
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
-     fit-margin-bottom="0" />
+     fit-margin-bottom="0"
+     inkscape:snap-page="true"
+     inkscape:snap-nodes="false" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -149,22 +172,33 @@
      inkscape:groupmode="layer"
      id="layer1">
     <rect
-       style="fill:#ffff45;fill-opacity:1;stroke-width:0.2;stroke-linecap:round"
-       id="rect2976"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linecap:round"
+       id="rect3711"
        width="94.998634"
        height="94.998634"
        x="0"
-       y="0"
-       rx="0"
-       ry="0" />
-    <rect
-       style="fill:url(#pattern2971);fill-opacity:1.0;stroke-width:0.2;stroke-linecap:round;stroke:none"
-       id="rect914"
-       width="94.998634"
-       height="94.998634"
-       x="0"
-       y="0"
-       rx="0"
-       ry="0" />
+       y="0" />
+    <circle
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linecap:round"
+       id="path3715"
+       cx="49.169155"
+       cy="43.162891"
+       r="34.374336" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.565;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 36.106629,19.49862 26.79275,-0.310274"
+       id="path4952" />
+    <circle
+       style="fill:#1a1a1a;stroke-width:0.564999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path4965"
+       cx="43.275921"
+       cy="14.548996"
+       r="2.2605741" />
+    <circle
+       style="fill:#1a1a1a;stroke-width:0.564999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="circle4967"
+       cx="57.000633"
+       cy="14.548996"
+       r="2.2605741" />
   </g>
 </svg>
