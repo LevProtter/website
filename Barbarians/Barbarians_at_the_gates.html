@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+  <html dir="ltr" lang="en-US">
+      <head>
+          <meta charset="UTF-8">
+          <link rel="stylesheet" type="text/css" href="styles.css">
+          <title>Barbarian Maps</title>
+          <meta name="viewport" content="width=device-width">
+          </head>
+            <body>
+            <link href="styles.css" rel="stylesheet"/>
+<article><h1>Barbarians at the gates.</h1>
+
+<section id="intro"><p>You are the <em>Grand</em> Imperial cartographer,
+and your services are needed!
+Lately, more and more barbarians have been making it past the borders.
+It’s gotten so bad that the previous minister of defense was fired<em>(the new one hired you.)</em>.
+The special commity concluded: “The reason for the recent wave breaches was new recruits
+unfamiliarity with the border regions.”</p>
+<p>That’s where you come in.</p></section>
+<section id="the_problem"><h2>How do you design a map for a new recruit?</h2>
+<figure><img alt="A tactical map full of visual noise." src="map.svg"/>
+<figcaption><em id="question">Pretty standard, right?</em></figcaption></figure>
+<p>Definately not like that.
+This might be what got us here in the first place.</p>
+<p>First, I would say get rid of clutter, if your new soldier needs to read a legend,
+theres a <em>barbarian behind you.</em></p>
+<p>Next, we need to know what a new recruit needs to know.
+We need to know what a seasoned veteran can tell you in their sleep.</p></section>
+<section id="in_their_sleep"><h2>Interview with a crusty veteran.</h2>
+<p id="crust">Things I can tell you in my sleep?
+To this day I know black moth trail takes <em>20 minutes by foot</em>, and <em>10 minutes by horse</em>,
+but I'd never do that to a horse.</p>
+<p><em id="question">Anything else?</em></p>
+ <p id="crust">Why, yes.
+I need to know <em>which way round the border</em> it is,
+Choke points, weak points, shortcuts, and how long till reinforcments arrive.</p></section>
+<section id="List"><h2>Designing the map.</h2>
+<p>Things we must consider:</p>
+<ul><li>Time by foot (factor in terrain difficulty)</li>
+<li>Time with other means. (you, and a barbarian can have a horse.)</li>
+<li>location specific details.</li>
+<li>Navigate based on the border as the main landmark (clockwise/'clockwise == east/west)</li>
+<li id="paragraph"><p>Distance on our map must corespond to time,
+and we need clear markers of important information that don't
+require a legend.</p></li></ul>
+<figure><img alt="Cutting up our map." src="cutout.png"/>
+<figcaption><em>Snip Snip Snip</em></figcaption>
+<p>So we remove extra information,
+    and have room for(a whole dimensionful)
+critical information.</p></figure>
+<figure><img alt="A stright line map" src="Scaledlinear.svg"/>
+<figcaption><p><em>Now it has more meaningful for patroling recruits. notice how the trail is longer now?</em></p>
+
+</figcaption>
+</figure></section>
+<summary>
+<h2>But why?</h2>
+<p>Maps are confusing.</p>
+<p>Take that last figure. Now map it to a navigation app.
+Do I really care about a sattelite view of the entire city?
+Am I bombing someone?
+Of the block?<br/>
+Like hell I do! I want to glance and instantly understand the nature of the <em>Hazard ahead</em>.
+I want a clear unerstanding of the 5 exit highway, and never miss a turn.</p>
+<p>Many of us take 2D maps for granted, but most of us don't <em>really</em> use them very often.
+When we follow GPS instructions, we are thinking very linearly.
+<br/>We need to be told exactly what do.
+Good luck driving with a paper map, though.</p>
+<p>Most of the 3D/2D representation on common map apps waste screen space, and might
+even distract drivers. Games tend to use tiny minimaps, but designers have opted to add
+floating markers in game, effectively making open-world games 1Dimensional.</p>
+<p>Many projects during #Interhackt involved representing concepts on a 2D map.
+[I don't remember your name, contact me and I'll plug your stuff.] mentioned user testing
+that kept showing general confusion and slow time to read for 2D graphs of data.
+That reminded me of an old cartography <a href="https://somethingaboutmaps.wordpress.com/2015/09/28/a-matter-of-perspective/">blogpost</a> that explored this idea.</p>
+<p>I highly recommend you check it out!</p>
+<p>Hopefully, we can all find more and more things that can be boiled down to 1D graphs, freeing up
+space in our head for more interesting problems.</p></summary></article>
+
+            </body>
+  </html>

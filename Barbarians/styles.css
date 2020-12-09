@@ -1,0 +1,50 @@
+@font-face {
+  font-family: PTSans-Regular;
+  src: url(PTSans-Regular.ttf);
+}
+
+html {
+  font-size: 100%;
+  font-family: PTSans-Regular;
+  background-color: whitesmoke;
+}
+
+@font-face {
+  font-family: PTSans-Italic;
+  src: url(PTSans-Italic.ttf);
+}
+
+body {
+  max-width: 75%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 10%;
+}
+h1 {
+  font-size: 36px;
+}
+h2 {
+  font-size: 30px;
+}
+#crust {
+  padding-left: 15px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: black;
+  color: ghostwhite;
+  font-family: mono;
+  border-radius: 3px;
+}
+
+img {
+  width: 100%;
+}
+p {
+  margin-top: 30px;
+  max-width: 80ch;
+}
+#question {
+  margin-left: 45%;
+  text-align: center;
+}
+
