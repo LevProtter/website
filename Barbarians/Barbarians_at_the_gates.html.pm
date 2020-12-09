@@ -96,7 +96,7 @@
     ◊figcaption{
         ◊p{
            ◊em{
-               Now it has more meaningful for patroling recruits. notice how the trail is longer now?}
+               Now it has more meaning for patroling recruits.◊br{}notice how the trail is longer now?}
           }
         
 
@@ -105,33 +105,34 @@
 }}
 ◊summary{
 
-    ◊h2{But why?}
+    ◊h2{◊em{But why?}
     ◊p{
         Maps are confusing.
     }
     ◊p{
         Take that last figure. Now map it to a navigation app.
-        Do I really care about a sattelite view of the entire city?
+        Do I really care about a sattelite view of the entire city?◊br{}
+        Of the block?
         Am I bombing someone?
-        Of the block?◊br{}
-        Like hell I do! I want to glance and instantly understand the nature of the ◊em{Hazard ahead}.
-        I want a clear unerstanding of the 5 exit highway, and never miss a turn.
+        ◊br{}
+        Hell no! I want to glance and instantly understand the ◊em{Hazard ahead}.
+        I want a clear unerstanding of the 5 exit highway, and never ◊em{ever} miss a turn.
     }
     ◊p{
-        Many of us take 2D maps for granted, but most of us don't ◊em{really} use them very often.
-        When we follow GPS instructions, we are thinking very linearly.
-        ◊br{}We need to be told exactly what do.
-        Good luck driving with a paper map, though.
+        Many of us take 2D maps for granted, but most of us don't ◊em{really} use them all too often.
+        When we follow GPS instructions, we think linearly.
+        ◊br{}We are told exactly what do, eyes on the road.
+        Good luck driving with a paper map, though...
     }
     ◊p{
         Most of the 3D/2D representation on common map apps waste screen space, and might
-        even distract drivers. Games tend to use tiny minimaps, but designers have opted to add
+        even distract drivers. Games tend to use tiny minimaps, but designers go around them and add
         floating markers in game, effectively making open-world games 1Dimensional.
     }
     ◊p{
-        Many projects during #Interhackt involved representing concepts on a 2D map.
+        Many projects during ◊a[#:href "https://twitter.com/interhackt_"{#Interhackt} involved representing concepts on a 2D map.
         [I don't remember your name, contact me and I'll plug your stuff.] mentioned user testing
-        that kept showing general confusion and slow time to read for 2D graphs of data.
+        which kept showing general confusion and slow time to read for 2D graphs of data.
         That reminded me of an old cartography ◊a[#:href "https://somethingaboutmaps.wordpress.com/2015/09/28/a-matter-of-perspective/"]{blogpost} that explored this idea.
     }
     ◊p{
@@ -139,7 +140,7 @@
     }
     ◊p{
         Hopefully, we can all find more and more things that can be boiled down to 1D graphs, freeing up
-        space in our head for more interesting problems.
+        space in our heads(and screens) for more interesting problems.
     }
 }
 }
