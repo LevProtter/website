@@ -131,7 +131,7 @@
     }
     ◊p{
         Many projects during ◊a[#:href "https://twitter.com/interhackt_"]{#Interhackt} involved representing concepts on a 2D map.
-        [I don't remember your name, contact me and I'll plug your stuff.] mentioned user testing
+        Someone named Adam mentioned user testing
         which kept showing general confusion and slow time to read for 2D graphs of data.
         That reminded me of an old cartography ◊a[#:href "https://somethingaboutmaps.wordpress.com/2015/09/28/a-matter-of-perspective/"]{blogpost} that explored this idea.
     }
